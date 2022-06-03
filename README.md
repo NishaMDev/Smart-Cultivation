@@ -1,6 +1,6 @@
-# SmartCultivation
+# Crop Prediction using Soil and Climate conditions
  
-Colab link: https://colab.research.google.com/github/poojashreeNS/SmartCultivation/blob/main/CMPE_256_Crop_Prediction_Final.ipynb#scrollTo=JIQd2SAIlZ1c
+Colab link: https://colab.research.google.com/github/NishaMDev/Smart-Cultivation/blob/main/CMPE_256_Crop_Prediction_Final.ipynb
 
 Deployment link: https://smartcultivation-v2.herokuapp.com/
 
